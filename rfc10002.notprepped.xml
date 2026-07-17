@@ -4038,10 +4038,7 @@ registries are to remain unchanged.</t>
       <references anchor="sec-informative-references">
         <name>Informative References</name>
         <xi:include href="https://bib.ietf.org/public/rfc/bibxml/reference.RFC.5272.xml"/>
-<!--  [CMC-TRANS] companion document
-draft-ietf-lamps-rfc5273bis
-IESG State: RFC Ed Queue as of 05/08/26
--->
+
         <reference anchor="RFC10003" target="https://www.rfc-editor.org/info/rfc10003">
           <front>
             <title>Certificate Management over CMS (CMC): Transport Protocols</title>
@@ -4056,9 +4053,6 @@ IESG State: RFC Ed Queue as of 05/08/26
   <seriesInfo name="RFC" value="10003"/>
   <seriesInfo name="DOI" value="10.17487/RFC10003"/>
         </reference>
-<!--  [CMC-COMPL] Companion document
-draft-ietf-lamps-rfc5274bis
-IESG State: RFC Ed Queue as of 05/08/26
 -->
         <reference anchor="RFC10004" target="https://www.rfc-editor.org/info/rfc10004">
           <front>
